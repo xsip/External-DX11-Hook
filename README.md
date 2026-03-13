@@ -5,6 +5,8 @@ Renders a fully interactive ImGui UI in a headless Direct3D 11 process and compo
 it onto the game's back-buffer every frame via a hooked `IDXGISwapChain::Present` —
 no DLL injection, no in-process threads. Using [LiquidHookEx - External Hooking Library for C++](https://github.com/xsip/LiquidHookEx)
 
+![Header](https://raw.githubusercontent.com/xsip/External-DX11-Hook/refs/heads/main/header.png)
+
 ---
 
 ## Table of Contents
@@ -434,3 +436,4 @@ External-DX11-Hook/
             └── Macros.h                   ← LH_START / LH_END shellcode boundary macros
 
 ```
+
