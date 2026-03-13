@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CS2-Example/CS2-Example.vcxproj" Id="4b7a9b8a-898f-435a-987f-c688e3116922" />
+  <Project Path="LiquidHookEx/LiquidHookEx/LiquidHookEx.vcxproj" Id="00b59da1-017f-445c-ac10-87928d2e1d87" />
+  <Project Path="Overlay/Overlay.vcxproj" Id="68dfd4e9-e27c-489f-a6a9-fc7f1519c65f" />
+</Solution>
