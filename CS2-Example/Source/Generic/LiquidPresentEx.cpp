@@ -356,4 +356,4 @@ namespace LiquidHookEx {
         return m_Hook.Unhook();
     }
 
-} // namespace Steam
+}
