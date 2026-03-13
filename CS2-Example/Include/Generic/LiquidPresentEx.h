@@ -123,4 +123,4 @@ namespace LiquidHookEx {
         static bool Unhook();
     };
 
-} // namespace Steam
+}
