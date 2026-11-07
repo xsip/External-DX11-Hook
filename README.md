@@ -1,4 +1,4 @@
-# This example is steam specific. Have a look at *[PresentHookEx](https://github.com/xsip/PresentHookEx) for External dummy swapChain method!*
+# This example is steam specific. Have a look at *[PresentHookEx-DX12](https://github.com/xsip/PresentHookEx-DX12) or [PresentHookEx-DX11](https://github.com/xsip/PresentHookEx-DX11) for External dummy swapChain method!*
 # External-DX11-Hook
 
 An external, two-process DX11 overlay framework for CS2 (and any DXGI title).
